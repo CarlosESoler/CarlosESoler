@@ -5,6 +5,8 @@ Procuro um programa de **estágio** ou **junior** para iniciar na carreira.
 ## Langs 
 <div style="display: inline_block">
   <img align="center" alt="Carlos-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Carlos-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+ <div style="display: inline_block">
 
 ## Contato
 <div>
