@@ -10,7 +10,6 @@ Procuro um programa de **estágio** ou **junior** para iniciar na carreira.
 
 ## Contato
 <div>
-  <a href = "mailto:carlinhoscaco09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carlos-soler-877486222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
