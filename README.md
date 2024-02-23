@@ -1,6 +1,5 @@
 ## Olá! Me chamo Carlos, tudo bem?
 Sou formado como tecnico em Informática pelo Instituto Federal Catarinense, onde aprendi a base da programação e me apaixonei pela mesma. Hoje curso ciência da computação, alguns cursinhos na internet e procuro me aprofundar cada vez mais nesse mundo.
-Procuro uma oportunidade profissional como desenvolvedor para ingressar na carreira.
 
 ## Langs 
 <div style="display: inline_block">
